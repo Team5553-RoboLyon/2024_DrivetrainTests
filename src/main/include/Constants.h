@@ -1,0 +1,7 @@
+#define XBOX_CONTROLLER true
+#define IMU false
+
+#define VOLTAGE_COMPENSATION true
+#define VOLTAGE_COMPENSATION_VALUE 12.0
+
+#define WHEEL_RADIUS 0.08f
